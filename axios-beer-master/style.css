@@ -1,0 +1,12 @@
+img {
+  width: 30px;
+}
+li {
+  display: flex;
+  flex-direction: column;
+}
+#beer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
